@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointListAdapters", "SharePointListAdapters\SharePointListAdapters.csproj", "{FCE864A7-7B0C-48A5-9F79-F92AF2402082}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SharePointUtility", "SharePointUtility\SharePointUtility.vbproj", "{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointListConnection", "SharePointListConnection\SharePointListConnection.csproj", "{2EF043E5-D843-4085-9801-5269AED387C8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test.SharepointUtility", "Test.SharepointUtility\Test.SharepointUtility.vbproj", "{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs02
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SharePointListAdapters\\SharePointListAdapters.csproj
+		SccProjectName1 = SharePointListAdapters
+		SccLocalPath1 = SharePointListAdapters
+		SccProjectUniqueName2 = SharePointUtility\\SharePointUtility.vbproj
+		SccProjectName2 = SharePointUtility
+		SccLocalPath2 = SharePointUtility
+		SccProjectUniqueName3 = SharePointListConnection\\SharePointListConnection.csproj
+		SccProjectName3 = SharePointListConnection
+		SccLocalPath3 = SharePointListConnection
+		SccProjectUniqueName4 = Test.SharepointUtility\\Test.SharepointUtility.vbproj
+		SccProjectName4 = Test.SharepointUtility
+		SccLocalPath4 = Test.SharepointUtility
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE864A7-7B0C-48A5-9F79-F92AF2402082}.Release|x86.ActiveCfg = Release|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3117F6A-B873-4B05-9B4B-84FE9B0B6960}.Release|x86.ActiveCfg = Release|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF043E5-D843-4085-9801-5269AED387C8}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Debug|x86.ActiveCfg = Debug|x86
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Debug|x86.Build.0 = Debug|x86
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Release|x86.ActiveCfg = Release|x86
+		{D6EE613E-5BCF-482F-9DBD-37880EB4A3B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
